@@ -1,4 +1,3 @@
-%%writefile busquedas_benchmark.Py
 import heapq
 import itertools
 import time
