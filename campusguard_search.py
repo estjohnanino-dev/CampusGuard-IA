@@ -1,4 +1,3 @@
-%%writefile campusguard_search.py
 import heapq
 import itertools
 import time
