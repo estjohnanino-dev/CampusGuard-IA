@@ -1,5 +1,3 @@
-%%writefile validar_heuristica.py
- 
 from campusguard_search import CampusGuard, Node, S0
  
 p = CampusGuard(S0)
